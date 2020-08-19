@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello world
 
-<!--
-**rajantara/rajantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am front-end developer who have a passion for learning and sharing my knowledge with others.
+give some ♥ at [@rajanlaoder](https://www.instagram.com/rajanlaoder_/) feel free to reach me whenever you want.
 
-Here are some ideas to get you started:
+<p>
+<a href="https://www.linkedin.com/in/rajantara-laode-66a487189/"><img height="30" src="https://github.com/rajantara/rajantara/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/rajanlaoder_/"><img height="30" src="https://github.com/rajantara/rajantara/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:rajanpensas@gmail.com"><img height="30" src="https://github.com/rajantara/rajantara/mail.png?raw=true"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![rajantara's github stats](https://github-readme-stats.vercel.app/api?username=rajantara&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
