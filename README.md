@@ -1,6 +1,6 @@
 ### Hello world
 
-I am front-end developer who have a passion for learning and sharing my knowledge with others.
+I am fullstack developers who have a passion for learning and sharing my knowledge with others.
 give some ♥ at [@rajanlaoder](https://www.instagram.com/rajanlaoder_/) feel free to reach me whenever you want.
 
 <p>
