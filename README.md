@@ -9,9 +9,6 @@ give some ♥ at [@rajanlaoder](https://www.instagram.com/rajanlaoder_/) feel fr
 <a href="mailto:rajanpensas@gmail.com"><img height="30" src="https://github.com/rajantara/rajantara/blob/master/mail.png?raw=true"></a>
 </p>
 
-
-![rajantara's github stats](https://github-readme-stats.vercel.app/api?username=rajantara&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
-
 ![rajantara's github stats](https://github-readme-stats.vercel.app/api?username=rajantara&theme=dark&show_icons=true)
 
 
