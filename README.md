@@ -12,3 +12,5 @@ give some ♥ at [@rajanlaoder](https://www.instagram.com/rajanlaoder_/) feel fr
 ![rajantara's github stats](https://github-readme-stats.vercel.app/api?username=rajantara&theme=dark&show_icons=true)
 
 
+[![rajantara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajantara)](https://github.com/rajantara/github-readme-stats)
+
